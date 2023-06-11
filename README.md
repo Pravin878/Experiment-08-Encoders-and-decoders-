@@ -138,11 +138,7 @@ DECODER
 
 
 ### TRUTH TABLE 
-ENCODER
-![image](https://github.com/Pravin878/Experiment-08-Encoders-and-decoders-/assets/118799555/73206620-44f0-4292-9838-d6b2fa923b06)
-DECODER
-![image](https://github.com/Pravin878/Experiment-08-Encoders-and-decoders-/assets/118799555/d7ecccc3-9db1-4b71-89e2-9f9797af9007)
-
+![image](https://github.com/Pravin878/Experiment-08-Encoders-and-decoders-/assets/118799555/d284640e-c9a4-4e46-ad52-7d8dca411c9e)
 
 
 
